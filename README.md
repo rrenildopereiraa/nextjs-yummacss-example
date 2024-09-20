@@ -1,10 +1,9 @@
 <h3 align="center">Yumma CSS — Next.js</h3>
 
 <p align="center">
-  This is a Next.js Yumma CSS example.
+  A Next.js project with Yumma CSS.
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
-  
 
 ## Get started
 
